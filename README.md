@@ -10,5 +10,4 @@ The data was provided by the professors of the course.
 Francisco Martínez García
 f.martinezgarcia@cunef.edu
 
-**Github repository link:**
-https://github.com/FranMartinez17/payment_fraud.git
+
